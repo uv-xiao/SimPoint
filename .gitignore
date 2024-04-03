@@ -1,0 +1,5 @@
+analysiscode/*.d
+analysiscode/*.o
+analysiscode/simpoint
+bin/simpoint
+output/
